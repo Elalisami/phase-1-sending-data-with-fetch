@@ -1,5 +1,7 @@
 {
-  "dogs": [{
+ 
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +10,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -20,8 +28,79 @@
       "catBreed": "American Shorthair",
       "id": 2
     }
+
   ],
-  "users": [],
+
+  "users": [
+    {
+      "name": "Ali",
+      "email": "ali.sami",
+      "id": 1
+    },
+    {
+      "name": "ahmed",
+      "email": "ahmed.sami",
+      "id": 2
+    },
+    {
+      "name": "hadi",
+      "email": "hadi.sami",
+      "id": 3
+    },
+    {
+      "name": "durayd sami",
+      "email": "duayd.sami@yahoo.com",
+      "id": 4
+    },
+    {
+      "name": "ahmed muhsin",
+      "email": "ahmed.muhsin@yahoo.com",
+      "id": 5
+    },
+    {
+      "name": "Hi",
+      "email": "Hello@",
+      "id": 6
+    },
+    {
+      "name": "goodmorning",
+      "email": "morning",
+      "id": 7
+    },
+    {
+      "name": "chaw",
+      "email": "chaw",
+      "id": 8
+    },
+    {
+      "name": "hi",
+      "email": "hel",
+      "id": 9
+    },
+    {
+      "name": "hi",
+      "email": "hel",
+      "id": 10
+    },
+    {
+      "name": "hi",
+      "email": "hel",
+      "id": 11
+    },
+    {
+      "name": "hi",
+      "email": "hel",
+      "id": 12
+    },
+    {
+      "name": "hi",
+      "id": 13
+    },
+    {
+      "name": "hi",
+      "id": 14
+    }
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
